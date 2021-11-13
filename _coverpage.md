@@ -2,4 +2,4 @@
 
 # kd-notes
 
-> small is powerful, small is beautiful
+> small is powerful, small is beautiful.
