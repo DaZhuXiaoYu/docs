@@ -1,4 +1,4 @@
-> small is powerful, small is beautiful
+# 数据传输
 
 - 数据传输服务的设计与实现
 - todo ...
