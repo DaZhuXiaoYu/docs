@@ -1,14 +1,6 @@
 <!-- _coverpage.md -->
 
-![logo](_media/icon.svg)
+# kd-notes <small>3.5</small>
 
-# docsify <small>3.5</small>
+![](https://img1.baidu.com/it/u=2377830565,941575045&fm=26&fmt=auto)
 
-> todo
-
-- kd-notes
-
-![color](#f0f0f0)
-
-[GitHub](https://github.com/docsifyjs/docsify/)
-[Get Started](#docsify)
