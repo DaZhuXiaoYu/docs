@@ -4,4 +4,4 @@
 
 
 
-> small is powerful, small is beautiful.
+<small>small is powerful, small is beautiful.</small>
